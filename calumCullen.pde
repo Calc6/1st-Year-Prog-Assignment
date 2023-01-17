@@ -1,5 +1,5 @@
 //NAME:Calum Cullen
-//STUDENT ID:20102180
+//STUDENT ID:
 
 
 String gameCond;//game conditon
